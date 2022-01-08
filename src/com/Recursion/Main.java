@@ -26,3 +26,6 @@ public class Main {
         nums[end] = temp;
     }
 }
+/*
+ we will use this method, when it will be given no's from 1 to n.
+ */
