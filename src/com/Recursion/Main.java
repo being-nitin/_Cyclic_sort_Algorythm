@@ -27,5 +27,6 @@ public class Main {
     }
 }
 /*
- we will use this method, when it will be given no's from 1 to n.
+ we will use this method, when it will be given no's from 1 to n
+ or 0 to n.
  */
